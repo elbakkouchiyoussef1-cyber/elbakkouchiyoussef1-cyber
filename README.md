@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I’m Youssef!  
 
-<!--
-**elbakkouchiyoussef1-cyber/elbakkouchiyoussef1-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A motivated future software developer transitioning from hospitality to IT, with a strong passion for technology, problem-solving, and continuous learning.
 
-Here are some ideas to get you started:
+💻 Currently building my skills in:
+- Python & Java fundamentals  
+- Software testing & quality assurance  
+- IT support, troubleshooting & customer-centric tech solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My Goal:  
+To grow into a professional software developer / QA engineer and contribute to meaningful tech projects that make users’ lives easier.
+
+🌱 What I’m doing now:
+- Strengthening my programming foundation through hands-on projects  
+- Learning modern development tools step by step  
+- Exploring ISTQB, automation testing & backend development  
+
+✨ What I bring:
+- High resilience, curiosity, self-learning mindset  
+- Strong communication & customer support experience from hospitality  
+- Team player with an international background & a passion for innovation  
+
+📂 Check out my repositories — more coming soon as I grow on my IT journey!
+
+💬 Let’s connect and learn together!
